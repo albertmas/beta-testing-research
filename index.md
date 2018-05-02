@@ -9,10 +9,10 @@ subject Project 2, under supervision of lecturer
 ### What is Video Game Testing?
 
 [Wikipedia](https://en.wikipedia.org/wiki/Game_testing) says:
-“Game testing [...] is a software testing process for quality control of video games.
+*“Game testing [...] is a software testing process for quality control of video games.
 The primary function of game testing is the discovery and documentation of software defects.
 Interactive entertainment software testing is a highly technical field requiring computing expertise, analytic competence,
-critical evaluation skills, and endurance.”
+critical evaluation skills, and endurance.”*
 
 The testing of video games is performed by a QA group that can vary in size and methodology throughout the game development.
 The first playtestings will usually start whenever the first playable build is created and will continue until the game is fully released.
@@ -27,6 +27,7 @@ This job is a typical entry point for people who want to join the game developme
 into the video game creation. That leads to few people staying on this job for several years.
 
 ![Pic](https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg)
+<br><img src="https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg?raw=true" width = "338" height = "163" alt="Error loading img"><br>
 
 ### Frome Beta to Release
 
