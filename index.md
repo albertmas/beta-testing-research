@@ -28,7 +28,6 @@ into the video game creation. That leads to few people staying on this job for s
 
 ![Pic](https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg)
 [Source](https://www.funstockretro.co.uk/news/what-is-it-like-to-be-a-video-games-tester/)
-<br><img src="https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg?raw=true" width = "338" height = "163" alt="Error loading img"><br>
 
 ### From Beta to Release
 
@@ -68,7 +67,8 @@ remaining bugs without delaying the release any further.
 - **Verification:** Tester tries to replicate the bug again several times and if it no longer occurs, it is considered fixed.
 
 ![Pic](https://www.gameindustrycareerguide.com/wp-content/uploads/2014/01/Dead-Fly-Scene_Grant-Cochrane-300x197.jpg)
-[Source](
+
+[Source](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-tester/)
 
 ### Testing Steps
 - **Game knowledge**: Thorough understanding of the game’s concept, mechanics, characters, features, rules, level design…
@@ -104,6 +104,7 @@ remaining bugs without delaying the release any further.
 - **A:** Critical bugs that prevent the game from being playable. We can differentiate 2 types: Crash and Critical. (e.g. Crash, A door to the next objective that doesn’t open, a main quest NPC disappears…)
 
 ![Pic](https://content.invisioncic.com/r273030/monthly_2017_10/erro.png.7dd08c6b72912fdc00285c3516a5c679.png)
+
 PUBG Crash. [Source](https://www.reddit.com/r/pugb/comments/8aclnb/1010_gaming_experience/)
 
 ![Pic](http://i.imgur.com/1kAtwG0.jpg)
@@ -117,10 +118,23 @@ General. Ordinary character is clipping through the floor and can't be interacte
 - **C:** Smaller problems that may annoy the player but don’t completely ruin the experience. We can differentiate 2 types: Minor and Cosmetic. (e.g. a texture isn’t loading, sound bug, a character’s facial expression remains still while talking...)
 
 ![Pic](https://connorryan1994.files.wordpress.com/2014/01/d.png)
-Minor. The car is stuck in the a wall, but there is plenty of cars so the user isn't stuck. [Source](https://connorryan1994.wordpress.com/2014/01/22/unit-77-designing-tests-for-computer-games/)
+Minor. The car is stuck in the a wall, but there is plenty of other cars so the user isn't very affected. [Source](https://connorryan1994.wordpress.com/2014/01/22/unit-77-designing-tests-for-computer-games/)
 
 ![Pic](https://connorryan1994.files.wordpress.com/2014/01/e2.jpg)
 Cosmetic. The character drinking animation looks weird but doesn't affect the player. [Source](https://connorryan1994.wordpress.com/2014/01/22/unit-77-designing-tests-for-computer-games/)
 
 ![Pic](https://mygaming.co.za/news/wp-content/uploads/2016/10/Skyrim-Headless-Glitch.jpg)
-Cosmetic. The character's face has vanished. [Source](http://ramblingfoxreviews.blogspot.com.es/2015/05/5-enjoyable-but-ridiculously-bugged-games.html)
+Cosmetic. The character's body has vanished. [Source](http://ramblingfoxreviews.blogspot.com.es/2015/05/5-enjoyable-but-ridiculously-bugged-games.html)
+
+### Bibliography
+http://www.whatgamesare.com/
+
+http://www.wikipedia.org/
+
+https://www.gameindustrycareerguide.com/how-to-become-a-video-game-tester/
+
+https://www.testbytes.net/blog/types-of-game-testing/
+
+https://chrisluniwconfetti.wordpress.com/2014/01/22/dfgdfg/
+
+http://www.infosysblogs.com/testing-services/2012/12/6_steps_to_test_games_effectiv.html
