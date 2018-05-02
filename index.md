@@ -100,10 +100,18 @@ remaining bugs without delaying the release any further.
 ### Types of bugs
 - **A:** Critical bugs that prevent the game from being playable. (e.g. Crash, A door to the next objective that doesn’t open, a main quest NPC disappears…)
 
+![Pic](https://content.invisioncic.com/r273030/monthly_2017_10/erro.png.7dd08c6b72912fdc00285c3516a5c679.png)
+
 - **B:** General bugs. Essential problems that require attention; however, the game may still be playable. Multiple B bugs are equally severe to an A bug. (e.g. dead bodies fall through the floor or start moving randomly, a useless NPC disappears…)
+
+![Pic](https://dilanlahiru.files.wordpress.com/2014/01/untitled2.png)
 
 - **C:** Smaller problems that may annoy the player but don’t completely ruin the experience. (e.g. a texture isn’t loading, sound bug, a character’s facial expression remains still while talking...)
 
 ![Pic](https://morrisatlarge.files.wordpress.com/2015/01/game-tester.jpg?w=233&h=131)
 
 ![Pic](https://1.bp.blogspot.com/-156gvbaFg8E/Vq5hTTywMVI/AAAAAAAAGKg/pl0AIVhshIk/s1600/AC-Unity-bugs.jpg)
+
+![Pic](https://connorryan1994.files.wordpress.com/2014/01/e2.jpg)
+
+![Pic](https://mygaming.co.za/news/wp-content/uploads/2016/10/Skyrim-Headless-Glitch.jpg)
