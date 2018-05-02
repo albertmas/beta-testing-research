@@ -86,7 +86,7 @@ remaining bugs without delaying the release any further.
 
 - **Report errors:**  Each error found has to be logged, categorized, prioritized and tracked.
 
-## Types of playtesting
+### Types of playtesting
 - **Functionality testing:** Consists on playing the game and look for general problems within the game itself or its UI. Testers are not required to have a high technical profile.
 
 - **Compliance testing:** Consists on checking that the game fulfils all the Technical requirements from every targeted platform. If the game aims for a certain content rating from audience regulatory bodies such as PEGI (european) or ESRB (american).
