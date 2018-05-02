@@ -6,6 +6,10 @@ subject Project 2, under supervision of lecturer
 
 ## BETA TESTING
 
+![Pic](https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg)
+
+[Source](https://www.funstockretro.co.uk/news/what-is-it-like-to-be-a-video-games-tester/)
+
 ### What is Video Game Testing?
 
 [Wikipedia](https://en.wikipedia.org/wiki/Game_testing) says:
@@ -26,9 +30,9 @@ have to invest a bit more into QA but the final result will probably be a more f
 This job is a typical entry point for people who want to join the game development industry and want to have some insight
 into the video game creation. That leads to few people staying on this job for several years.
 
-![Pic](https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg)
+![Pic](https://www.360logica.com/blog/wp-content/uploads/2015/08/5-Must-to-Do-Things-While-Performing-Video-Games-Testing.jpg)
 
-[Source](https://www.funstockretro.co.uk/news/what-is-it-like-to-be-a-video-games-tester/)
+QA team testing Titanfall 2. [Source](https://www.360logica.com/blog/5-must-to-do-things-while-performing-video-game-testing/)
 
 ### From Beta to Release
 
