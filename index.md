@@ -48,3 +48,19 @@ distribution will start. This process will usually take over a month.
 Getting a release candidate approved used to be a tougher job because no bugs (or almost) were supposed to be unsolved
 before shipping the game. Nowadays, publishers are not as inflexible, due to day one patches, which are useful to solve
 remaining bugs without delaying the release any further.
+
+### Roles in QA
+- **Lead tester:** He is in charge of the whole QA process. His job is to organise the playtesting teams, make sure that testers create formal and complete reports and that every reported bug is fixed by the developers. His goal is to obtain a bug-free game.
+
+- **Testers:** Their job is to ensure that the game contains as few bugs as possible, it’s easy to use, its mechanics are logic and coherent with the gameplay, and it’s fun to play. For each error or improvement they have to write a specific and accurate report, and if possible how to reproduce it.
+
+- **Technical Testers (SDET):** This team is formed by highly skilled programmers with knowledge on manual testing. They are responsible for building automated test cases and managing complex test problems such as overall game performance and security. That means that they have to combine their game testing and software development knowledge to automate processes for thorough testing and improve the game’s robustness and stability. They are usually only employed on big studios.
+
+### QA Steps
+- **Identification:** Game problem is spotted.
+
+- **Reporting:** Tester creates a detailed report on the bug and how to trigger it.
+
+- **Analysis:** Programmer/Artist/Designer (depending on the bug origin) checks the report and patches the bug.
+
+- **Verification:** Tester tries to replicate the bug again several times and if it no longer occurs, it is considered fixed.
