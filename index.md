@@ -133,14 +133,14 @@ Cosmetic. The character drinking animation looks weird but doesn't affect the pl
 Cosmetic. The character's body has vanished. [Source](http://ramblingfoxreviews.blogspot.com.es/2015/05/5-enjoyable-but-ridiculously-bugged-games.html)
 
 ### Bibliography
-http://www.whatgamesare.com/
+[](http://www.whatgamesare.com/)
 
-http://www.wikipedia.org/
+[](http://www.wikipedia.org/)
 
-https://www.gameindustrycareerguide.com/how-to-become-a-video-game-tester/
+[](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-tester/)
 
-https://www.testbytes.net/blog/types-of-game-testing/
+[](https://www.testbytes.net/blog/types-of-game-testing/)
 
-https://chrisluniwconfetti.wordpress.com/2014/01/22/dfgdfg/
+[](https://chrisluniwconfetti.wordpress.com/2014/01/22/dfgdfg/)
 
-http://www.infosysblogs.com/testing-services/2012/12/6_steps_to_test_games_effectiv.html
+[](http://www.infosysblogs.com/testing-services/2012/12/6_steps_to_test_games_effectiv.html)
