@@ -1,4 +1,4 @@
-I am [Albert Mas](link to your linkedIn), student of the
+I am [Albert Mas](https://www.linkedin.com/in/albert-mas-520982129), student of the
 [Bachelor’s Degree in
 Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
@@ -27,6 +27,7 @@ This job is a typical entry point for people who want to join the game developme
 into the video game creation. That leads to few people staying on this job for several years.
 
 ![Pic](https://i2.wp.com/2.media.dorkly.cvcdn.com/51/94/8a50767fc39a7d6cb54d98d1fccaa5fb.jpg)
+
 [Source](https://www.funstockretro.co.uk/news/what-is-it-like-to-be-a-video-games-tester/)
 
 ### From Beta to Release
@@ -105,25 +106,30 @@ remaining bugs without delaying the release any further.
 
 ![Pic](https://content.invisioncic.com/r273030/monthly_2017_10/erro.png.7dd08c6b72912fdc00285c3516a5c679.png)
 
-PUBG Crash. [Source](https://www.reddit.com/r/pugb/comments/8aclnb/1010_gaming_experience/)
+PUBG Crash log. [Source](https://www.reddit.com/r/pugb/comments/8aclnb/1010_gaming_experience/)
 
 ![Pic](http://i.imgur.com/1kAtwG0.jpg)
+
 Critical. After pausing a Dota 2 game, it was impossible to unpause. [Source](https://dev.dota2.com/showthread.php?t=121309)
 
 - **B:** General bugs. Essential problems that require attention; however, the game may still be playable. Multiple B bugs are equally severe to an A bug. (e.g. dead bodies fall through the floor or start moving randomly, a useless NPC disappears…)
 
 ![Pic](https://www.rockpapershotgun.com/images/11/dec/fix0.jpg)
+
 General. Ordinary character is clipping through the floor and can't be interacted with. [Source](https://www.rockpapershotgun.com/2011/12/08/hey-bethesda-could-you-fix-skyrim/)
 
 - **C:** Smaller problems that may annoy the player but don’t completely ruin the experience. We can differentiate 2 types: Minor and Cosmetic. (e.g. a texture isn’t loading, sound bug, a character’s facial expression remains still while talking...)
 
 ![Pic](https://connorryan1994.files.wordpress.com/2014/01/d.png)
+
 Minor. The car is stuck in the a wall, but there is plenty of other cars so the user isn't very affected. [Source](https://connorryan1994.wordpress.com/2014/01/22/unit-77-designing-tests-for-computer-games/)
 
 ![Pic](https://connorryan1994.files.wordpress.com/2014/01/e2.jpg)
+
 Cosmetic. The character drinking animation looks weird but doesn't affect the player. [Source](https://connorryan1994.wordpress.com/2014/01/22/unit-77-designing-tests-for-computer-games/)
 
 ![Pic](https://mygaming.co.za/news/wp-content/uploads/2016/10/Skyrim-Headless-Glitch.jpg)
+
 Cosmetic. The character's body has vanished. [Source](http://ramblingfoxreviews.blogspot.com.es/2015/05/5-enjoyable-but-ridiculously-bugged-games.html)
 
 ### Bibliography
