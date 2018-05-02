@@ -56,7 +56,7 @@ remaining bugs without delaying the release any further.
 
 - **Technical Testers (SDET):** This team is formed by highly skilled programmers with knowledge on manual testing. They are responsible for building automated test cases and managing complex test problems such as overall game performance and security. That means that they have to combine their game testing and software development knowledge to automate processes for thorough testing and improve the game’s robustness and stability. They are usually only employed on big studios.
 
-### QA Steps
+### QA Process
 - **Identification:** Game problem is spotted.
 
 - **Reporting:** Tester creates a detailed report on the bug and how to trigger it.
@@ -64,3 +64,46 @@ remaining bugs without delaying the release any further.
 - **Analysis:** Programmer/Artist/Designer (depending on the bug origin) checks the report and patches the bug.
 
 - **Verification:** Tester tries to replicate the bug again several times and if it no longer occurs, it is considered fixed.
+
+![Pic](https://www.gameindustrycareerguide.com/wp-content/uploads/2014/01/Dead-Fly-Scene_Grant-Cochrane-300x197.jpg)
+
+### Testing Steps
+- **Game knowledge**: Thorough understanding of the game’s concept, mechanics, characters, features, rules, level design…
+
+- **Test strategy:** Create a document with the number of testers, testing cycles, timeline, types of testing that will be used, scope…
+
+- **Test cases design:** Both positive and negative test cases will have to be designed. It is important not to forget to review the content of the game (Is it easy to understand?, Does it create a fun gameplay?, Is it appropriate for the targeted audience?...).
+
+- **Execute test cases:** In order to spot the maximum amount of bugs, it will be optimal to use different software and hardware. It’s advisable to record playtesting sessions.
+
+- **Report errors:**  Each error found has to be logged, categorized, prioritized and tracked.
+
+## Types of playtesting
+- **Functionality testing:** Consists on playing the game and look for general problems within the game itself or its UI. Testers are not required to have a high technical profile.
+
+- **Compliance testing:** Consists on checking that the game fulfils all the Technical requirements from every targeted platform. If the game aims for a certain content rating from audience regulatory bodies such as PEGI (european) or ESRB (american).
+
+- **Compatibility testing:** Consists on testing the game on different types of hardware and software to make sure it works on every computing environment. Specially important in PC titles.
+
+- **Localization testing:** Consists on reviewing the translation of the game scripts and text, to foreign languages. It also covers the review of text translation related problems such as text not fitting in the screen. Testers are usually native to the country where that game version is being launched.
+
+- **Soak testing:** Consists on leaving the game running for long periods of time without any human interaction in order to identify any possible memory leak or rounding error that appears over time. The game might be left in various modes of operation, such as idling, paused, or at the title screen. This test doesn’t require any testers after the initial setup and automated tools may be used in order to simulate repetitive actions, such as mouse clicks.
+
+- **Beta testing:** It’s done during the Beta phase. It consists on opening a version of the game to the public. That way you can get thousands of players that will test your game for free and probably find a lot of bugs that your testers missed. It can be an open beta, where anyone can join, or closed beta, restricted to some selected players.
+
+- **Regression testing:** Whenever a bug is fixed by a developer, a tester will have to test it again to check if it no longer happens. Afterwards, the tester will have to check related features to see if fixing that bug has broken anything else.
+
+- **Load testing:** Consists on pushing some part of the game to the limit in order to know how far can it go before it starts causing problems. The test can be the maximum number of active players on an MMO, the number of active sprites on the screen, or the number of threads running in the program.
+
+- **Multiplayer testing:** Consists on ensuring that all the desired multiplayer options (Internet, LAN, Modem) working correctly.
+
+### Types of bugs
+- **A:** Critical bugs that prevent the game from being playable. (e.g. Crash, A door to the next objective that doesn’t open, a main quest NPC disappears…)
+
+- **B:** General bugs. Essential problems that require attention; however, the game may still be playable. Multiple B bugs are equally severe to an A bug. (e.g. dead bodies fall through the floor or start moving randomly, a useless NPC disappears…)
+
+- **C:** Smaller problems that may annoy the player but don’t completely ruin the experience. (e.g. a texture isn’t loading, sound bug, a character’s facial expression remains still while talking...)
+
+![Pic](https://morrisatlarge.files.wordpress.com/2015/01/game-tester.jpg?w=233&h=131)
+
+![Pic](https://1.bp.blogspot.com/-156gvbaFg8E/Vq5hTTywMVI/AAAAAAAAGKg/pl0AIVhshIk/s1600/AC-Unity-bugs.jpg)
